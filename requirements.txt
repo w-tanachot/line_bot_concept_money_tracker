@@ -1,0 +1,7 @@
+flask==3.1.3
+line-bot-sdk==3.22.0
+pyngrok==7.5.0
+python-dotenv
+plotly
+kaleido
+pandas
